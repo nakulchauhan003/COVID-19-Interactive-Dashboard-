@@ -100,7 +100,4 @@ To create an easy-to-navigate dashboard that:
 ---
 
 ## 📌 Preview
-![Dashboard Preview]
-
-## 📌 Preview
-![Dashboard Preview](https://github.com/Shagun-yadav/Interactive-Dashboard-Covid-19-/blob/main/Covid-19%20Dashboard.png)
+![Dashboard Preview](https://github.com/nakulchauhan003/COVID-19-Interactive-Dashboard-/blob/main/COVID-19%20Dashboard.png)
